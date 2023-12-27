@@ -1,0 +1,14 @@
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar el directorio node_modules
+node_modules/
+
+# Ignorar los cambios de saltos de línea
+.gitattributes
+
+# Ignorar archivos de configuración específicos
+config.ini
+
+# Ignorar todos los archivos de un tipo específico en un directorio
+assets/*.log
